@@ -1,0 +1,8 @@
+node_modules/
+.env
+*.sqlite
+coverage/
+public/media/*
+!public/media/seed/
+npm-debug.log*
+.DS_Store
