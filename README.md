@@ -4,6 +4,8 @@ API REST da loja **Digital Store (Drip Store)**, desenvolvida como projeto final
 
 **Integrante:** Webster Bezerra
 
+🔗 **Front-end:** https://github.com/websterbarroso/digital-store (rodando em https://digital-store-opal-pi.vercel.app)
+
 ## Tecnologias
 
 | Tecnologia | Uso |
